@@ -1,0 +1,1 @@
+If the "fix" is "patch" copy it to the folder where you have installed the program and run it as admin to register.
